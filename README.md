@@ -12,7 +12,4 @@ I'm a final year BCAD student who has a passion in software development, databas
 ![](https://streak-stats.demolab.com/?user=Deano708&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Deano708&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deano708&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
